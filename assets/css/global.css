@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+:root {
+    --primary-color: #4b4b4b;
+
+}
+
+body {
+    font-family: "Macondo", sans-serif;
+}
